@@ -1,0 +1,38 @@
+<!doctype html>
+
+<html>
+    
+    <head>
+    
+        <meta charset="utf-8" />
+        <meta name="keywords" content="pet,comfort,relax friendly">
+        <meta name="description" content="We care about the animals.All beings are the family of earth">
+       
+        <title>Mrs.Writch Pet Shop</title>
+        <link rel="stylesheet" type="text/css" herf="css/main.css">
+    
+    </head>
+    
+    <body>
+      
+        <h1 style="color:darkslategrey">Welcome to our shop</h1>
+        <p><sup>100</sup>100 quality</p>
+        <p>We believe in <mark>love,trust and destiny</mark></p> 
+        <p>We believe in love,<sub>trust</sub> and destiny</p> 
+        <p>We believe in love,trust <sup>and</sup>destiny</p>
+        <p><pre>Explore more!!</pre></p>
+        
+        <h1 style="color:brown"><strong>Meow!!</strong></h1>
+       
+    <h1>Contact us if you are intrested to adopt our sweet xiao baobei</h1>
+    <p>You can contact us</p>
+    <h2>Dianhua haoma:</h2>
+    <p>987-33-22</p>
+    <h1>By mail:</h1>
+    <p>writchpetshop@mail.com</p>
+    <h1>Follow our weibo account @pettythepets_88 for further info</h1>
+    
+    </body>
+
+
+</html>
