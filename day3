@@ -1,0 +1,45 @@
+<!doctype html>
+
+<html>
+    
+    <head>
+    
+        <meta charset="utf-8" />
+        <meta name="keywords" content="pet,comfort,relax friendly">
+        <meta name="description" content="We care about the animals.All beings are the family of earth">
+       
+        <title>Mrs.Writch Pet Shop</title>
+        <link rel="stylesheet" type="text/css" herf="css/main.css">
+    
+    </head>
+    
+    <body>
+      
+        <img src="img/cute.jpg"><strong>Welcome to  Petite pet shop</strong>
+        <h2 style="color: fuchsia" style="text-decoration-style: wavy">--Where you find coziness and kindness--</h2>
+        <p><sup>100</sup>100 quality</p>
+        
+        <a href="contact/contact.html"/>Contact us </a>
+    
+
+        <p>We believe in <p style="font-style: italic">love,trust and destiny</p> 
+        <h3>Did you know?</h3> 
+        <p><pre> Interacting with Animals are considered as a part of therapy</pre></p>
+    
+        <img src="img/sweet.jpg">
+        
+        <h1 style="color:brown"><strong>Meow!!</strong></h1>
+       
+    <h1>Contact us if you are intrested to  explore and know more about of our sweet xiao baobei and services we provide</h1>
+    <h2>You can contact us:</h2>       
+    <h3>Dianhua haoma is below:</h3>
+    <p>987-33-22</p>
+    <h2>By mail:</h2>
+    <p>writchpetshop@mail.com</p>
+    <h2>Follow our weibo account @pettythepets_88 for further info</h2>
+     <a href="https://www.instagram.com/rakee_taa/"> Check this out!! if you got spare time</a>
+    
+    </body>
+
+
+</html>
