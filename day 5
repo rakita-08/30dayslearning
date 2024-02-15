@@ -1,0 +1,78 @@
+<html>
+    
+    <head>
+    
+        <meta charset="utf-8" />
+        <meta name="keywords" content="pet,comfort,relax friendly">
+        <meta name="description" content="We care about the animals.All beings are the family of earth">
+       
+        <title>Mrs.Writch Pet Shop</title>
+        <link rel="stylesheet" type="text/css" herf="css/main.css">
+    
+    
+    </head>
+    
+    <body>
+      
+        <h1>Hey There!!</h1>
+        
+        <div id="top"></div>
+        
+        <div id="header">
+           <img src="img/cute.jpg"><strong style="color:firebrick">WELCOME TO PETTITE PET SHOP</strong>
+           <h1 style="color: fuchsia" style="text-decoration-style: wavy">--Where you find coziness and kindness--</h1>
+           <p><sup>100</sup>100 quality</p>
+        <div/>
+            
+        <div id="About-us">
+           <h2 style="color: chocolate">About Us</h2>
+           <p>We care about animals and believe every organism deserve their own standard of happiness.<br>With this objective we've been focusing on nurturing the stray animals and reach them out to their happy and healthy lives</p>
+        </div>
+            
+        <hr>
+        
+        <div id="navigation">
+           <ul>
+           <li><a href="contact/contact.html">Contact us </a></li>
+           <li><a href="download/yo.pdf">You can download our animal breeds here</a></li>
+           </ul>
+        </div>
+            
+        <hr>
+
+        <div id="Fact">
+           <p style="font-style: italic">We believe in love,trust and destiny</p> 
+           <h3>Did you know?</h3> 
+           <p><pre> Interacting with Animals are considered as a part of therapy</pre></p>
+        </div>
+    
+        <img src="img/sweet.jpg">
+        
+        <h2 style="color:brown"><strong>Meow!!</strong></h2>    
+    <div id="Contact-us">
+       <h2>Contact us if you are intrested to  explore and know more about of our sweet xiao baobei and services we provide</h2>
+       <h2>You can contact us:</h2>       
+       <div class="contact-method">
+          <h3>Dianhua haoma is below:</h3>
+          <p>987-33-22</p>
+       <div/>
+           
+       <div class="contact-method">
+       <h2>By mail:</h2>
+       <p>writchpetshop@mail.com</p>
+       <div/>
+    
+       <div class="contact-method">
+       <h2>Follow our weibo account @pettythepets_88 for further info</h2>
+       </div>
+    </div>
+    
+    <ul>
+    <li><a href="https://www.instagram.com/rakee_taa/"> Check this out!! if you got spare time</a></li>
+    <li><a href="#top">to top</a></li>
+    </ul>
+    
+    </body>
+
+
+</html>
