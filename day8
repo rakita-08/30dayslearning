@@ -1,0 +1,46 @@
+<!doctype html>
+
+<html>
+    
+    <head>
+    
+        <meta charset="utf-8" />
+        <meta name="keywords" content="pet,comfort,relax friendly">
+        <meta name="description" content="We care about the animals.All beings are the family of earth">
+       
+        <title>Mrs.Writch Pet Shop</title>
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+    </head>
+    
+    <body>
+      
+        <table>
+        <tr>
+            <th>Breeds</th>
+            <th>Animals</th>
+            <th>Gender</th>
+        </tr>
+        <tr>
+            <td>British Shirt hair</td>
+            <td>Cat</td>
+            <td>Male</td>
+        </tr>
+        <tr>
+            <td>Ragdoll</td>
+            <td>Cat</td>
+            <td>Female</td>
+        </tr>
+        <tr>
+            <td>Pomerian</td>
+            <td>Dog</td>
+            <td>Male</td>
+        </tr>
+        <tr>
+            <td>Labradog</td>
+            <td>Dog</td>
+            <td>Male</td>
+        </tr>
+        </table>
+    </body>
+    
+</html>
