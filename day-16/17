@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<title>Sports Anime Club</title>
+</head>
+
+    <body>
+     <header><h1>Sporty Club</h1></header>
+        <section class="banner">
+            <img src="img/banner.jpg" alt="Sports Anime club banner">
+            <div class="Welcome">
+                <h2>Welcome to <br><span>our Club</span></h2>
+            </div>
+        </section>
+    <nav class="main-nav">
+        <ul>
+        <li><a href="/join.html" class="join">Join the club</a></li>
+        <li><a href="/news.html">Recent News</a></li>
+        <li><a href="/games.html">Try our new games</a></li>
+        <li><a href="/contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+    <article>
+        <h2>Its me Hi,I'm the PROBLEM</h2>
+        <p>anime, style of animation popular in Japanese films. Early anime films were intended primarily for the Japanese market and, as such, employed many cultural references unique to Japan. For example, the large eyes of anime characters are commonly perceived in Japan as multifaceted “windows to the soul.” Much of the genre is aimed at children, but anime films are sometimes marked by adult themes and subject matter. Modern anime began in 1956 and found lasting success in 1961 with the establishment of Mushi Productions by Osamu Tezuka, a leading figure in modern manga, the dense, novelistic Japanese comic book style that contributed greatly to the aesthetic of anime. Anime such as Miyazaki Hayao’s Princess Mononoke (1997) are the modern equivalent of the epic folk adventures once filmed by Japanese masters such as Mizoguchi Kenji and Kurosawa Akira. At the turn of the 21st century, anime began to attain wide international popularity with the Pokémon television series and films such as Miyazaki’s Spirited Away (2002), winner of an Academy Award for best animated feature film.</p>
+        </article>    
+        <ul class="images">
+        <li><img  src="img/thumbnail.jpg" alt="Anime"></li>
+        <li><img src="img/tbn.jpg" alt="Anime.2"></li>
+        </ul>
+    </main>
+        <section class="join">
+        <h2>Join today</h2>
+        <p>A shame about Ponyo, which is often (surprise!) a kick to look at but is so lacking in narrative cohesion or persuasive emotion, and is so dully voiced by the dubbed cast of Anglo celebrities and, in two instances, their squealy younger siblings. Miyazaki really misses on this one, I think, even if my expectations were inevitably raised by the preceding weekend's return to Spirited Away</p>
+        <form>
+        <input type="email" name="email" palceholder="Type email & hit enter">
+        </form>
+        </section>
+        <footer>
+        <p class="copyright">coopyright 2024 Anime club</p>
+        </footer>
+    </body>
+</html>
